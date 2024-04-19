@@ -5,7 +5,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 1. Zodiak OCGCR
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/ZodiakOCGCR.png "Zodiak OCGCR")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/ZodiakOCGCR.png "Zodiak OCGCR")
    
    *"Open cycle gas core reactor engine, super high thrust and super high efficiency. Uses nuclear pellets as fuel."*
 
@@ -18,7 +18,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 3. Cerberus FFR
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/CerberusFFR.png "Cerberus FFR")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/CerberusFFR.png "Cerberus FFR")
   
    *"Uses finely crushed nuclear pellets to react and melt into each other, breaking off from spinning disks and ionizing, being blasted through the engine nozzle at a considerable fraction of the speed of light. Uses nuclear pellets"*
 
@@ -31,7 +31,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 5. VASIMR
 
-      ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/VASIMR.png "VASIMR")
+      ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/VASIMR.png "VASIMR")
    
       *"Variable specific impulse magnetoplasma rocket, super efficient and high power for an electric thruster. The higher the throttle is set to, the more fuel is used for the some acceleration. Uses xenon gas as fuel"*
 
@@ -44,7 +44,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 7. Scorpion
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/Scorpion.png "Scorpion")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/Scorpion.png "Scorpion")
 
    *"Open cycle chemical combustion engine, good efficiency and thrust. meant to be used as an efficient landing engine. uses liquid fuel."*
    *"Scorpion engine but with a shroud so you can use the slim landing legs with it. uses liquid fuel."*
@@ -60,7 +60,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 1. Small communications dish
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/antenna.png "Small Antenna")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/antenna.png "Small Antenna")
 
    *"A small retractable communications dish"*
 
@@ -72,7 +72,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 3. Slim landing legs
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/legs.png "Slim landing legs")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/legs.png "Slim landing legs")
 
    *"Slim landing leg with a shell around it so it doesnt look ugly"*
    *"An advanced looking version of the slim leg. differences are purely visual"*
@@ -86,7 +86,7 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
 
 5. Gyroscope
 
-   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/VaporSpace2-patch-1/Pictures/gryoscope.png "Gryoscope")
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/gryoscope.png "Gryoscope")
 
    *"Used for helping steer the vessel with an immense amount of torque"*
 
