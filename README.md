@@ -56,6 +56,21 @@ A mod made for a game called Spaceflight Simulator, dedicated towards interplane
    * 4 tiles wide, 4.1 tiles long.
   
 
+8. Mirror Cell Fusion Engine
+
+   ![alt text](https://github.com/VaporSpace2/TheNuclearRoute/blob/main/Pictures/MirrorCellFusionEngine.png)
+
+   *"An extremely efficient and relatively high thrust fusion engine that uses mirrors to bounce lasers off of and into tiny fusion pellets, in which the lasers compress the pellets enough to cause fusion and heat up the fissile pellets upwards of 1 billion degrees celcius. Uses nuclear 
+   pellets"*
+
+   Very difficult to find any information regarding specifics such as ISP and thrust, but these supposedly have anywhere from 50000 - 1000000+ ISP, and somewhere near 800 tons of thrust.
+   * 750 tons of thrust.
+   * 75000 seconds of specific impulse.
+   * weighs 35 tons
+   * 6 tiles wide, 34.4 tiles long.
+   
+  
+
 ## other parts
 
 1. Small communications dish
