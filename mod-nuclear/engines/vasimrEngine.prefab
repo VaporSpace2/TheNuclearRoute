@@ -5418,7 +5418,7 @@ MonoBehaviour:
   soundEffect: {fileID: 11400000, guid: a5cc401ba2cf17743bf7d6b77e4e49f1, type: 2}
   volume:
     variables: {fileID: 7566055751565209050}
-    input: sound_vol
+    input: sound_vol * 0.5
   pitch:
     variables: {fileID: 7566055751565209050}
     input: 1
